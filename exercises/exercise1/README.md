@@ -1,4 +1,4 @@
-# WEEK 1 EXERCISE - NEED GRADING  
+# Exercise 1 
 
 
 ## **Compiling Instruction** 
