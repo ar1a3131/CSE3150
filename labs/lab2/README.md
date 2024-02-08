@@ -9,5 +9,5 @@ g++ main.cpp linked_list.o fisher_yates.o -o my_program
 
 2. Run complied files/ Run tests
 ```bash
-      ./my_program
+./my_program
 ```
