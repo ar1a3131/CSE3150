@@ -1,4 +1,4 @@
-# LAB 2
+# LAB 3
 
 1. Compiling
 ```bash
