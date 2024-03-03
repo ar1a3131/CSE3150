@@ -3,11 +3,9 @@
 
 1. Type the following command to compile specific files (**Main Function**, **Tests for ReadVectors**, **Tests for Vector Variants**)
 ```bash
-        g++ vectorsMain.cpp intsreadVector.cpp intsVector.cpp
-        g++ intsreadVectors.cpp unitTests_readVectors.cpp
-        g++ intsVector.cpp intsreadVectors.cpp unitTests_mainVectors.cpp
+        g++ vectorsMain.cpp intsreadVector.cpp intsVector.cpp -o program
 ```
 2. Run complied files
 ```bash
-        ./a.out
+        ./program
 ```
