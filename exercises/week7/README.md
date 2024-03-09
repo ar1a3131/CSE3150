@@ -10,8 +10,12 @@ This C++ program checks whether an integer is a perfect number. A perfect intege
 
 ## Compiling and Running
 To compile the program, you can use the following commands:
-
-'''
+```bash
 g++ -o main main.cpp perfect_integer.cpp
 ./main
-'''
+```
+To compile and run the unit tests, use the following commands:
+```bash
+g++ -o test test.cpp perfect_integer.cpp
+./test
+```
