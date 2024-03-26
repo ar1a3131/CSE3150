@@ -9,12 +9,12 @@ g++ -o lab6 Matrix.cpp main.cpp
 g++ -o lab6tests UnitTests.cpp Matrix.cpp
 ```
 
-#To Run the main file:
+## To Run the main file:
 ```bash
 ./lab6
 ```
 
-#To Run the tests:
+## To Run the tests:
 ```bash
 ./lab6tests
 ```
